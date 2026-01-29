@@ -70,6 +70,13 @@ This is slower than buffering, but it makes the math and mapping very explicit.
 ### Option 1: NetBeans (recommended)
 
 1. **Create** a NetBeans project
-2. **Replace** the src folder with the zip
+2. **Replace** the contents of src folder with those of the zip
 3. Open the project in **NetBeans**
-4. Run `FractalWindow` (it contains the `main` method)
+4. Run `FractalWindow`
+
+### Option 2: Any other Java IDE
+1. **Create** a Java project
+2. **Replace** the contents of src folder with those of the zip
+3. Make sure the folder structure matches the package
+4. Set the project SDK to the right Java version
+5. Run `FractalPackage.FractalWindow`
