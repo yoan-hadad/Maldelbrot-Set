@@ -68,7 +68,7 @@ This is slower than buffering, but it makes the math and mapping very explicit.
 ## Run the project
 
 ### Option 1: NetBeans (recommended)
-This project includes a `FractalWindow.form` file created with the NetBeans GUI Builder.
+
 1. **Create** a NetBeans project
 2. **Replace** the src folder with the zip
 3. Open the project in **NetBeans**
