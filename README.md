@@ -6,6 +6,10 @@ A small Java Swing app that renders the **Mandelbrot set** with adjustable color
 
 ---
 
+> I have uploaded the **.java** files in case anyone wants to copy a part of the code without runnig the program.
+
+---
+
 ## Features
 - Renders the **Mandelbrot set** in a Swing window
 - Control **max iterations** (detail level)
